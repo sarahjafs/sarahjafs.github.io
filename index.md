@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Projects at The Developer Academy 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Roll the dice](/https://github.com/sarahjafs/TDA-Bootcamp-Assignments/blob/301ba2dac2cd2da026ee967e16b2cce1ebd196cc/1.%20Roll%20the%20dice(FINAL).py)
+<img src="https://images.app.goo.gl/8FCVFPsuys7tLD8u7"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

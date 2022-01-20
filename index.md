@@ -2,28 +2,28 @@
 
 ---
 
-### Projects at The Developer Academy 
+### Python Games at The Developer Academy 
 
-[Roll the dice](/https://github.com/sarahjafs/TDA-Bootcamp-Assignments/blob/301ba2dac2cd2da026ee967e16b2cce1ebd196cc/1.%20Roll%20the%20dice(FINAL).py)
-<img src="https://images.app.goo.gl/8FCVFPsuys7tLD8u7"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Roll the dice python game](/https://github.com/sarahjafs/TDA-Bootcamp-Assignments/blob/301ba2dac2cd2da026ee967e16b2cce1ebd196cc/1.%20Roll%20the%20dice(FINAL).py)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Guess the number python game](/https://github.com/sarahjafs/TDA-Bootcamp-Assignments/blob/301ba2dac2cd2da026ee967e16b2cce1ebd196cc/2.%20Guess%20the%20number%20assignment.py)
+
+
+---
+[Mad Libs Generator!](/https://github.com/sarahjafs/TDA-Bootcamp-Assignments/blob/301ba2dac2cd2da026ee967e16b2cce1ebd196cc/3.%20Mad%20Libs%20Generator.py)
+
 
 ---
 
-### Category Name 2
+### Data insights using datasets
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Titanic Predictions using Logistic Regression](/https://github.com/sarahjafs/TDA-Bootcamp-Assignments/blob/301ba2dac2cd2da026ee967e16b2cce1ebd196cc/3.%20Mad%20Libs%20Generator.py)
+(/https://www.kaggle.com/sarahjafri/titanic-logistic-regression-with-python)
+<img src="images/Screenshot%202022-01-20%20at%2013.10.35.png"/>
+- [Using Machine Learning to Predict Heart disease](https://www.kaggle.com/sarahjafri/s-predicts-heart-disease-for-targeted-therapeutics)
+<img scr="/images/Screenshot%202022-01-20%20at%2013.19.04.png"/>
+
 
 ---
 
